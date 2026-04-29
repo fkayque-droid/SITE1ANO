@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+p{
+    text-align: left;
+}
+
+h3{
+    color: black;
+
+}
+
+h2{
+    color: rgb(239, 9, 9);
+}
+img{
+    width: 160px;
+    height: 160px;
+}
+li{
+    transition: 0.3s;
+}
+
+li:hover{
+    color: chartreuse;
+    font-size: 30px;  
+}
